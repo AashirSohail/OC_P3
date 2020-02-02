@@ -1,23 +1,59 @@
-body{
-    outline: 1px dotted red !important; 
-}
-
-
-.mar{
-    margin-left: 2em;
-    margin-right: 2em;
-    width: 98%
-}
-
-.p{
-    color: #f0d90a;
-}
 
 .blue{
     color:#4183D7;
 }
 
+.white{
+    color: white;
+}
+
 .back{
 background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+margin-top: -2rem; padding-top: 2rem; padding-bottom: 2em;
+}
+
+.gap-top{
+    margin-top: 4rem;
+}
+
+.gap{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.gap-bottom{
+    margin-bottom: 4rem;
+}
+
+.pad-in{
+    padding-top: 4rem; padding-bottom: 4rem; 
+}
+
+#sch {
+    background-color: rgb(224, 224, 224); 
+}
+
+.pt-1{
+    padding-top: 1rem;
+}
+
+.middle{
+    text-align:center
+}
+
+.c-wid{
+    width: 18rem
+}
+
+.ft-wid{
+    max-width: 24.5rem; margin-left: -6.5rem;
+}
+
+#reg{
+    max-width: 30em; margin-top: 2rem;
+}
+
+.news{
+    background-color: rgb(224, 224, 224);margin-top: 2em; padding-top: 2rem; padding-bottom: 4em;
 }
