@@ -11,4 +11,4 @@ Checkout project brief in the documentation provided.
 * Map
 
 ## See it Live here
-https://app.netlify.com/sites/vigorous-lamport-494ad6
+https://vigorous-lamport-494ad6.netlify.app
